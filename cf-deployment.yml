@@ -2795,9 +2795,9 @@ releases:
   version: 2.3.40
   sha1: acc92a1b78955aecffb941dcd497e2fa760ad568
 - name: garden-runc
-  url: https://bosh.io/d/github.com/cloudfoundry/garden-runc-release?v=1.20.3
-  version: 1.20.3
-  sha1: 6a1af4abe9472be3a5dfd7f6a8c8fc586d71cbc0
+  url: https://bosh.io/d/github.com/cloudfoundry/garden-runc-release?v=1.20.4
+  version: 1.20.4
+  sha1: 742749391668330ff3cfa422d34195eb448cc2cd
 - name: go-buildpack
   url: https://bosh.io/d/github.com/cloudfoundry/go-buildpack-release?v=1.9.41
   version: 1.9.41
