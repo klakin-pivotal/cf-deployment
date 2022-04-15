@@ -23,6 +23,6 @@
   path: /releases/name=metrics-discovery
   value:
     name: metrics-discovery
-    sha1: c791ff2b3eafe52003d68c2e4e6724c2c5ef6492
-    url: https://bosh.io/d/github.com/cloudfoundry/metrics-discovery-release?v=3.0.10
-    version: 3.0.10
+    sha1: 4378f03dc3d16043a7ffdb3929aed398f59ef9ec
+    url: https://bosh.io/d/github.com/cloudfoundry/metrics-discovery-release?v=3.0.12
+    version: 3.0.12
