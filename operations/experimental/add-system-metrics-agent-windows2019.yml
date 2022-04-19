@@ -10,6 +10,7 @@
       release: system-metrics
       properties:
         metrics_port: 53035
+        use_prom_scraper: true
         system_metrics:
           tls:
             ca_cert: "((system_metrics.ca))"
